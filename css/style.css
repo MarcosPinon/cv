@@ -1,0 +1,11 @@
+body{background-color:#C4D7E0;}
+
+hr{
+
+  border-style:none; border-top-style: dotted; width:5%;
+  border-width: 5px; border-color: #BBBBBB;
+}
+
+h1{font-family: "Monaco"; color: #716F81;}
+h2{font-family: "Monaco"; color: #716F81;}
+h3{font-family: "Lucida Console"; color: #716F81;}
